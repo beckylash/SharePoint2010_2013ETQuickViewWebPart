@@ -6,14 +6,15 @@ Type: Farm solution
 
 Initial view that also includes error checking
 
-![Overview of Web Part](/ReadMeImages/ETQuickView1.PNG?raw=true "Optional Title")
+![Overview of Web Part](/ReadMeImages/ETQuickView1.PNG?raw=true "Overview of Web Part")
 
 Detail view of dashboard
 
-![Overview of Web Part](/ReadMeImages/ETQuickView2.PNG?raw=true "Optional Title")
+![Detail view of dashboard](/ReadMeImages/ETQuickView2.PNG?raw=true "Detail view of dashboard
+")
 
 Drill-down details
-![Overview of Web Part](/ReadMeImages/ETQuickView3.PNG?raw=true "Optional Title")
+![Drill-down view](/ReadMeImages/ETQuickView3.PNG?raw=true "Drill-down view")
 
 To do:
 1. Add list templates to feature to be deployed or add code to create lists

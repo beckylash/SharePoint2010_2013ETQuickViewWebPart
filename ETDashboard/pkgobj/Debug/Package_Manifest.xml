@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="b0d5b6b3-a56d-4941-85be-468c6d8d194e" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="ETQuickViewVisualWebPart.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="ETQuickViewVisualWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e1124b4eed5de73a" Namespace="ETQuickViewUserControl.VisualWebPart1" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <RootFiles>
+    <RootFile Location="Resources\Resource2.resx" />
+  </RootFiles>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\ETQuickViewUserControl\VisualWebPart1\ETDashboardUserControl.ascx" />
+    <TemplateFile Location="LAYOUTS\ETDashboardVisualWebPart\Classes\DashboardView.js" />
+    <TemplateFile Location="LAYOUTS\ETDashboardVisualWebPart\Classes\jquerycustom.js" />
+    <TemplateFile Location="LAYOUTS\ETDashboardVisualWebPart\jquery-1.10.1.min.js" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="ETQuickViewWebPart_ETQuickView\Feature.xml" />
+  </FeatureManifests>
+</Solution>

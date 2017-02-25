@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="ETDashboard" Description="Dashboard for reporting." Id="aaffac7d-979e-4086-88db-5db395a73dff" ReceiverAssembly="ETQuickViewVisualWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e1124b4eed5de73a" ReceiverClass="ETQuickViewUserControl.Features.Feature1.Feature1EventReceiver" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="ETDashboard\Elements.xml" />
+    <ElementFile Location="ETDashboard\ETDashboard.webpart" />
+  </ElementManifests>
+</Feature>

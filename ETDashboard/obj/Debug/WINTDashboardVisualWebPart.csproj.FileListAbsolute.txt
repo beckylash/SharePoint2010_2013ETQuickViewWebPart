@@ -1,0 +1,5 @@
+c:\Users\Administrator\Documents\Visual Studio 2010\Projects\WINTDashboardVisualWebPart\WINTDashboardVisualWebPart\bin\Debug\WINTDashboardVisualWebPart.dll
+c:\Users\Administrator\Documents\Visual Studio 2010\Projects\WINTDashboardVisualWebPart\WINTDashboardVisualWebPart\bin\Debug\WINTDashboardVisualWebPart.pdb
+c:\Users\Administrator\Documents\Visual Studio 2010\Projects\WINTDashboardVisualWebPart\WINTDashboardVisualWebPart\obj\Debug\ResolveAssemblyReference.cache
+c:\Users\Administrator\Documents\Visual Studio 2010\Projects\WINTDashboardVisualWebPart\WINTDashboardVisualWebPart\obj\Debug\WINTDashboardVisualWebPart.dll
+c:\Users\Administrator\Documents\Visual Studio 2010\Projects\WINTDashboardVisualWebPart\WINTDashboardVisualWebPart\obj\Debug\WINTDashboardVisualWebPart.pdb

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="b0d5b6b3-a56d-4941-85be-468c6d8d194e" solutionId="b0d5b6b3-a56d-4941-85be-468c6d8d194e" resetWebServer="false" sharePointProductVersion="15.0" name="ETQuickView" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="aaffac7d-979e-4086-88db-5db395a73dff" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="0bcf1a29-3a7b-4db6-a21c-7fdf2c10001e" />
+    <projectItemReference itemId="a3f06771-9163-4c35-ab57-73351772476f" />
+  </projectItems>
+</package>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.VisualWebPart" DefaultFile="ETDashboardUserControl.ascx" SupportedTrustLevels="FullTrust" SupportedDeploymentScopes="Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="ETDashboard\" Type="ElementManifest" />
+    <ProjectItemFile Source="ETDashboard.webpart" Target="ETDashboard\" Type="ElementFile" />
+    <ProjectItemFile Source="ETDashboardUserControl.ascx" Target="CONTROLTEMPLATES\ETQuickViewUserControl\VisualWebPart1\" Type="TemplateFile" />
+    <ProjectItemFile Source="Resource2.resx" Target="Resources\" Type="RootFile" />
+  </Files>
+  <SafeControls>
+    <SafeControl Name="SafeControlEntry1" Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="ETQuickViewUserControl.VisualWebPart1" TypeName="*" IsSafe="true" IsSafeAgainstScript="false" />
+  </SafeControls>
+</ProjectItem>

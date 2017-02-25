@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProblem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Problem>
+    <ID>SPDisposeCheckID_140</ID>
+    <Module>WINTQuickViewVisualWebPart.dll</Module>
+    <Method>WINTQuickViewUserControl.Features.Feature1.Feature1EventReceiver.FeatureActivated(Microsoft.SharePoint.SPFeatureReceiverProperties)</Method>
+    <Assignment>web := site.{Microsoft.SharePoint.SPSite}get_RootWeb()</Assignment>
+    <Source>C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WINTDashboard_20140129CURRENT\WINTDashboard\WINTDashboardVisualWebPart\Features\WINTOSCQuickView\WINTOSCQuickView.EventReceiver.cs</Source>
+    <Line>33</Line>
+    <Notes>	 Disposable type not disposed: Microsoft.SharePoint.SPWeb
+	 ***This may be a false positive depending on how the type was created or if it is disposed outside the current scope</Notes>
+  </Problem>
+</ArrayOfProblem>

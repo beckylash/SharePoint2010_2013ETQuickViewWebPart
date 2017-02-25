@@ -8,6 +8,12 @@ Initial view that also includes error checking
 
 ![Overview of Web Part](/ReadMeImages/ETQuickView1.PNG?raw=true "Optional Title")
 
+Detail view of dashboar
+
+![Overview of Web Part](/ReadMeImages/ETQuickView2.PNG?raw=true "Optional Title")
+
+Drill-down details
+![Overview of Web Part](/ReadMeImages/ETQuickView1.PNG?raw=true "Optional Title")
 
 To do:
 1. Add list templates to feature to be deployed or add code to create lists

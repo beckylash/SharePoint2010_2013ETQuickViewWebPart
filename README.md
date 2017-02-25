@@ -8,7 +8,7 @@ Initial view that also includes error checking
 
 ![Overview of Web Part](/ReadMeImages/ETQuickView1.PNG?raw=true "Overview of Web Part")
 
-<img src="https://raw.githubusercontent.com/BeckyLash/SharePoint2010_2013ETQuickViewWebPart/master/ReadMeImages/ETQuickView1.PNG" alt="Smiley face" border="5"> 
+<img src="https://raw.githubusercontent.com/BeckyLash/SharePoint2010_2013ETQuickViewWebPart/master/ReadMeImages/ETQuickView1.PNG" alt="Smiley face" border="5" style="border: solid black 5px"> 
 
 
 Detail view of dashboard

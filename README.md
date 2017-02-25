@@ -6,9 +6,9 @@ Type: Farm solution
 
 Initial view that also includes error checking
 
-![Overview of Web Part](/ReadMeImages/ETQuickView1.PNG?raw=true&border=5 "Overview of Web Part")
+![Overview of Web Part](/ReadMeImages/ETQuickView1.PNG?raw=true "Overview of Web Part")
 
-<img src="smiley.gif" alt="Smiley face" border="5"> 
+<img src="/ReadMeImages/ETQuickView1.PNG?raw=true" alt="Smiley face" border="5"> 
 
 
 Detail view of dashboard

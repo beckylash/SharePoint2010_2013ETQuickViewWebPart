@@ -1,9 +1,12 @@
 # SharePoint2010_2013ETQuickViewWebPart
-Web Part that shows statuses of items in site lists and provides drilldown details
+SharePoint 2013 Web Part that shows statuses of items in site lists and provides drilldown details
+Language: C#, JavaScript
+Version: SharePoint 2013, on-premise
+Type: Farm solution
 
 Initial view that also includes error checking
 
-![Overview of Web Part](https://github.com/BeckyLash/SharePoint2010_2013ETQuickViewWebPart/blob/master/ReadMeImages/ETQuickView1.PNG?raw=true "Optional Title")
+![Overview of Web Part](/ReadMeImages/ETQuickView1.PNG?raw=true "Optional Title")
 
 
 To do:

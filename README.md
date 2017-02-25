@@ -14,6 +14,7 @@ Detail view of dashboard
 ")
 
 Drill-down details
+
 ![Drill-down view](/ReadMeImages/ETQuickView3.PNG?raw=true "Drill-down view")
 
 To do:

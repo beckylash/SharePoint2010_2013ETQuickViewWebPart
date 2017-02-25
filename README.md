@@ -4,14 +4,14 @@ Language: C#, JavaScript
 Version: SharePoint 2013, on-premise
 Type: Farm solution
 
-<h1>Initial view that also includes error checking</H1>
+<h1>Initial view that includes error checking</H1>
 
 <kbd>
 ![Overview of Web Part](/ReadMeImages/ETQuickView1.PNG?raw=true "Overview of Web Part")
 </kbd>
 
 
-<h1>Detail Detail view of dashboard</h1>
+<h1>Detail view of dashboard</h1>
 
 <kbd>
 ![Detail view of dashboard](/ReadMeImages/ETQuickView2.PNG?raw=true "Detail view of dashboard
@@ -19,7 +19,7 @@ Type: Farm solution
 </kbd>
 
 
-<h1>Detail Drill-down details</h1>
+<h1>Drill-down details</h1>
 
 <kbd>
 ![Drill-down view](/ReadMeImages/ETQuickView3.PNG?raw=true "Drill-down view")

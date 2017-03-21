@@ -17,15 +17,14 @@ Type: Farm solution
 <h1>Detail view of dashboard</h1>
 
 <kbd>
-![Detail view of dashboard](/ReadMeImages/ETQuickView2.PNG?raw=true "Detail view of dashboard
-")
+<img src="https://github.com/BeckyLash/SharePoint2010_2013ETQuickViewWebPart/blob/master/ReadMeImages/ETQuickView2.PNG">
 </kbd>
 
 
 <h1>Drill-down details</h1>
 
 <kbd>
-![Drill-down view](/ReadMeImages/ETQuickView3.PNG?raw=true "Drill-down view")
+<img src="https://github.com/BeckyLash/SharePoint2010_2013ETQuickViewWebPart/blob/master/ReadMeImages/ETQuickView3.PNG">
 </kbd>
 
 To do:
